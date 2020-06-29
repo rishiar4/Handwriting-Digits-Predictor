@@ -1,5 +1,6 @@
 # Handwriting-Digits-Predictor
 Handwriting Digits Prediction Model
+The goal of this is to build a Handwritten digits Recognizer using python.
 
 This repository has the code for handwriting digits recognizer, it is one of the most popular projects for deep learning.
 I have worked upon the same using Keras. Keras is a open source neural network library which uses libraries like Tensorflow and Thaeno as backend. It is a high level library made to enable speed execution of neural networks. 
