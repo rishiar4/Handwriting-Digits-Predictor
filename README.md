@@ -1,5 +1,5 @@
 # Handwriting-Digits-Predictor
-Handwriting Digits Prediction Model
+Handwriting Digits Prediction Model.
 The goal of this is to build a Handwritten digits Recognizer using python.
 
 This repository has the code for handwriting digits recognizer, it is one of the most popular projects for deep learning.
